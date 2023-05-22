@@ -9,7 +9,3 @@ const FriendList = ({ friends }) => {
   );
 };
 export default FriendList;
-
-FriendList.prototype = {
-  friends: PropTypes.arrayOf,
-};

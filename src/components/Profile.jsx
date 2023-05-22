@@ -1,5 +1,3 @@
-import user from '../data/user.json';
-
 const Profile = ({ username, tag, location, avatar, stats }) => {
   return (
     <div className="profile">

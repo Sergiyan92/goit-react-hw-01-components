@@ -1,0 +1,12 @@
+.transaction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  display: flex;
+  margin-right: 20px;
+}
+.list {
+  display: flex;
+}

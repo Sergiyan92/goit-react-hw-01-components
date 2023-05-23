@@ -1,0 +1,9 @@
+.friend {
+  list-style: none;
+}
+.item {
+  display: flex;
+}
+.avatar {
+  width: 150px;
+}

@@ -1,0 +1,15 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+}
+.list {
+  display: flex;
+}
+.title {
+  text-align: center;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}

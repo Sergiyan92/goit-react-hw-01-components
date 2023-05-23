@@ -1,0 +1,21 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  text-align: center;
+}
+.tag {
+  text-align: center;
+}
+.location {
+  text-align: center;
+}
+.stats {
+  display: flex;
+  justify-content: space-between;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+}

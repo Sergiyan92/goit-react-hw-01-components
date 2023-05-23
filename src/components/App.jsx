@@ -27,8 +27,8 @@ export const App = () => {
         avatar={user.avatar}
         stats={user.stats}
       />
-      <Statistics key={data.id} title="Upload stats" stats={data} />
-      <FriendList key={friends.id} friends={friends} />;
+      <Statistics title="Upload stats" stats={data} />
+      <FriendList friends={friends} />;
       <TransactionHistory key={transactions.id} items={transactions} />
     </div>
   );
